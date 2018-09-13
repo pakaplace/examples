@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-import "@abacusprotocol/components/library/instruments/AbacusERC20Token.sol";
+import "@abacusprotocol/protocol/contracts/library/instruments/AbacusERC20Token.sol";
 
 /**
  * @dev A token that checks if the user has passed Abacus's KYC checks.

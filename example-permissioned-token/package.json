@@ -1,6 +1,9 @@
 {
   "dependencies": {
-    "@abacusprotocol/protocol": "^0.2.3"
+    "@abacusprotocol/protocol": "^0.2.3",
+    "openzeppelin-solidity": "1.10.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "truffle": "^4.1.14"
+  }
 }
